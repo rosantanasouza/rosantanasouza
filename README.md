@@ -1,3 +1,4 @@
+# 💫 Sobre:
 - Atualmente trabalho com React, Typescript e Node.js;
 - Possuo conhecimentos em Java com Spring Framework;
 - Análise e Desenvolvimento de Sistemas - UNIJORGE - [2015 - 2020];
