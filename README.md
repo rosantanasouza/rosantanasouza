@@ -11,7 +11,6 @@
 # Social:
 
 - [Linkedin](https://linkedin.com/in/rosantanasouza)
-- [Vitrine de certificados - Alura](https://cursos.alura.com.br/vitrinedev/rosantanasouza)
 
 # Tecnologias:
 
