@@ -1,7 +1,7 @@
 <h1 align="left">🧑‍💻Seja bem-vindo</h1>
 
 
-<p align="left"><strong>Desenvolvedor Front-end</strong></p>
+<p align="left"><strong>Desenvolvedor Full Stack</strong></p>
 
 
 <p align="left">Olá, meu nome é Rodrigo Santana de Souza, e sou natural de Salvador - Bahia.
